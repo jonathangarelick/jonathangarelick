@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm a full-stack engineer with several years of experience building scalable and performant web applications
+- I recently built a tool to recommend design patterns for new and inexperienced software engineers (see pinned)
+- In my spare time, I enjoy reverse engineering and tinkering the RuneScape video game client
+
 <!--
 **jonathangarelick/jonathangarelick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
